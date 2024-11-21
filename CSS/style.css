@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+}
+
+.carousel-caption h5 {
+    font-size: 2rem;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+.carousel-caption p {
+    font-size: 1.2rem;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
+}
+
+.carousel-item img {
+    height: 400px; 
+    object-fit: cover; 
+    width: 100%; 
+}
+
+.carousel-caption {
+    bottom: 20px; 
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.logo-navbar {
+    height: 40px; 
+    margin-right: 10px; 
+}
+.custom-navbar {
+    background-color: #003366; 
+    color: #003366; 
+}
+
+.custom-navbar .nav-link {
+    color: rgb(255, 255, 255); 
+}
+
+.custom-navbar .nav-link:hover {
+    color: #ffc107; 
+}
+
+form .form-control {
+    max-width: 300px; 
+    border-radius: 20px; 
+}
+
+form .btn {
+    border-radius: 20px; 
+}
+
+.navbar .btn {
+    border-radius: 20px; 
+    padding: 0.5rem 1rem; 
+}
+
+
+.navbar .btn-primary {
+    background-color: #646464;
+    border-color: #ffffff;
+}
+
+.navbar .btn-primary:hover {
+    background-color: #000000; 
+    border-color: #000000;
+}
+
